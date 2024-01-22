@@ -1,0 +1,13 @@
+{
+    "type": "mongodb",
+    "host": "itamar.tp4snqr.mongodb.net",
+    "port": 27017,
+    "database": "sapiens-app",
+    "synchronize": true,
+    "logging": true,
+    "entities": ["dist/**/*.entity.js"],
+    "cli": {
+      "entitiesDir": "src/**/*.entity.ts"
+    }
+  }
+  

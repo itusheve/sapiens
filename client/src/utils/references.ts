@@ -1,0 +1,1 @@
+export const CATEGORIES=['Villa','Condo','Land','Open House'];

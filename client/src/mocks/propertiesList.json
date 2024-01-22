@@ -1,0 +1,88 @@
+[
+    {
+       
+        "address":"hertzel 54 Netanya",
+        "category":"Villa",
+        "price":3000000,
+        "image":"https://t4.ftcdn.net/jpg/03/70/64/43/360_F_370644357_MDF4UXLAXTyyi2OyuK66tWW9cA2f8svL.jpg"
+    },
+    {
+       
+        "address":"hertzel 54 Netanya",
+        "category":"Land",
+        "price":3000000,
+        "image":"https://t4.ftcdn.net/jpg/03/70/64/43/360_F_370644357_MDF4UXLAXTyyi2OyuK66tWW9cA2f8svL.jpg"
+    },
+    {
+       
+        "address":"hertzel 54 Tel aviv",
+        "category":"Land",
+        "price":66565656,
+        "image":"https://t4.ftcdn.net/jpg/03/70/64/43/360_F_370644357_MDF4UXLAXTyyi2OyuK66tWW9cA2f8svL.jpg"
+    },
+    {
+        
+        "address":"hertzel 54 Jerusalem",
+        "category":"Land",
+        "price":3000000,
+        "image":"https://t4.ftcdn.net/jpg/03/70/64/43/360_F_370644357_MDF4UXLAXTyyi2OyuK66tWW9cA2f8svL.jpg"
+    },
+    {
+        
+        "address":"hertzel 54 Rosh hayin",
+        "category":"Villa",
+        "price":232325555,
+        "image":"https://t4.ftcdn.net/jpg/03/70/64/43/360_F_370644357_MDF4UXLAXTyyi2OyuK66tWW9cA2f8svL.jpg"
+    },
+    {
+       
+        "address":"hertzel 54 Petach-Tikva",
+        "category":"Villa",
+        "price":3100000,
+        "buyerID":1,
+        "image":"https://t4.ftcdn.net/jpg/03/70/64/43/360_F_370644357_MDF4UXLAXTyyi2OyuK66tWW9cA2f8svL.jpg"
+    },
+    {
+       
+        "address":"hertzel 54 Givataym",
+        "category":"Villa",
+        "price":3000000,
+        "buyerID":2,
+        "image":"https://t4.ftcdn.net/jpg/03/70/64/43/360_F_370644357_MDF4UXLAXTyyi2OyuK66tWW9cA2f8svL.jpg"
+    },
+    {
+        
+        "address":"hertzel 54 Or Yehuda",
+        "category":"Condo",
+        "price":2323242,
+        "image":"https://t4.ftcdn.net/jpg/03/70/64/43/360_F_370644357_MDF4UXLAXTyyi2OyuK66tWW9cA2f8svL.jpg"
+    },
+    {
+        
+        "address":"hertzel 54 Rehovot",
+        "category":"Condo",
+        "price":2003309,
+        "image":"https://t4.ftcdn.net/jpg/03/70/64/43/360_F_370644357_MDF4UXLAXTyyi2OyuK66tWW9cA2f8svL.jpg"
+    },
+    {
+       
+        "address":"hertzel 54 Beer Sheva",
+        "category":"Open House",
+        "price":150000,
+        "image":"https://t4.ftcdn.net/jpg/03/70/64/43/360_F_370644357_MDF4UXLAXTyyi2OyuK66tWW9cA2f8svL.jpg"
+    },
+    {
+        
+        "address":"hertzel 54 Dimona",
+        "category":"villa",
+        "price":3456000,
+        "image":"https://t4.ftcdn.net/jpg/03/70/64/43/360_F_370644357_MDF4UXLAXTyyi2OyuK66tWW9cA2f8svL.jpg"
+    },
+    {
+        
+        "address":"hertzel 54 Eilat",
+        "category":"Open House",
+        "price":2135400,
+        "image":"https://t4.ftcdn.net/jpg/03/70/64/43/360_F_370644357_MDF4UXLAXTyyi2OyuK66tWW9cA2f8svL.jpg"
+    }
+]

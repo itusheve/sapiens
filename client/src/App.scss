@@ -1,0 +1,110 @@
+
+
+.login-wrapper{
+  display: block;
+  margin:auto;
+  width:50%;
+  text-align:center;
+  margin-top:20px;
+}
+
+.property-item{
+    margin-top:50px;
+  
+.corner-ribbon {
+  font-weight: bold;
+  width: 200px;
+  position: absolute;
+  top: 25px;
+  left: -50px;
+  text-align: center;
+  line-height: 50px;
+  letter-spacing: 1px;
+  color: #f0f0f0;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+    &.sold{
+      background: #e43;
+    }
+    &.bought{
+      background: rgb(51, 238, 138);
+    }
+}
+
+.corner-ribbon
+.corner-ribbon.sold
+/* Custom styles */
+
+.corner-ribbon.shadow {
+  box-shadow: 0 0 3px rgba(0, 0, 0, .3);
+}
+
+.card {
+  overflow: hidden;
+}
+}
+  .property-list-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    max-width: 100vh;
+    margin: auto;
+    margin-top: 100px;
+  }
+
+.search-wrapper{
+
+  position: sticky;
+  top: 0;
+  z-index: 9;
+}
+    .search-container {
+      background-color: #FFF;
+      position: relative;
+      border-radius: 30px;
+      padding: 3px 50px 3px 10px;
+      
+    }
+    .search-box {
+      
+      background-color: transparent;
+      outline: none;
+     
+      font-size: 15px;
+      border: 0;
+      width: 50%;
+    }
+    .search-button {
+      position: absolute;
+      right: 4px;
+      top: 4px;
+      background-color: #C00;
+      border-radius: 50%;
+      border: 0;
+      color: #FFF;
+      width: 35px;
+      height: 35px;
+      outline: 0;
+      cursor: pointer;
+      i{
+        left: 10px;
+        top: 6px;
+        position: relative;
+      }
+    }
+//this is for removing my last pass icon on inputs
+  div {
+    &#__lpform_input_idx_0{
+      display: none;
+    }
+    &#__lpform_input_idx_1{
+      display: none;
+    }
+   
+ }
+ div{
+  &.title{
+    flex: 1;
+    text-align: center;
+  }
+ }
